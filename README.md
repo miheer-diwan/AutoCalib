@@ -1,6 +1,8 @@
 # AutoCalib
 Robust and Automatic Camera Calibration Based on Zhang's technique
 
+Please refer to the [Report](Report.pdf) for a detailed explanation and implementation.
+
 Calibration Image:
 ![6](https://github.com/miheer-diwan/AutoCalib/assets/79761017/14720f82-6bd4-4541-8fa8-737037a54194)
 
